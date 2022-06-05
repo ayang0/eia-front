@@ -1,0 +1,21 @@
+import Vue from 'vue';
+import { Cascader,Field,Popup,Button,Notify,Form,RadioGroup, Radio } from 'vant';
+import { Col, Row, Checkbox, CheckboxGroup,Card,Cell, CellGroup,List,Divider  } from 'vant';
+
+Vue.use(Col);
+Vue.use(Row);
+Vue.use(Cascader);
+Vue.use(Field);
+Vue.use(Popup);
+Vue.use(Button);
+Vue.use(Notify);
+Vue.use(Form);
+Vue.use(Checkbox);
+Vue.use(CheckboxGroup);
+Vue.use(Card);
+Vue.use(Cell);
+Vue.use(CellGroup);
+Vue.use(Radio);
+Vue.use(RadioGroup);
+Vue.use(List);
+Vue.use(Divider);
